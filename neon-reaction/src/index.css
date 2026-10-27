@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
+
+body {
+  background-color: #020617; /* slate-950 */
+  color: #f1f5f9; /* slate-100 */
+  overflow: hidden;
+  font-family: 'Inter', sans-serif;
+}
